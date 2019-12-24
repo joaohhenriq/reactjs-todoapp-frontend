@@ -1,2 +1,2 @@
 # Todo App - Frontend
-TodoApp frontend, with ReactJS.
+TodoApp frontend, with ReactJS (without redux).
